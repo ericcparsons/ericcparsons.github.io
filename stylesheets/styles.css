@@ -31,12 +31,16 @@ a:hover {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-
   width: 100%;
   padding: 20px 50px;
   background: #fff;
   transition: top 0.4s;
   top: -150px; /* Hide the navbar 50 px outside of the top view */
+
+}
+
+.menu {
+  margin-left: -35px;
 
 }
 
