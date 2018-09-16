@@ -306,11 +306,6 @@ a:hover {
 }
 
 @media screen and (max-width: 480px) {
-  .project-box {
-    width: 90%;
-    margin-bottom: 20%;
-
-  }
 
   .project-box h2 {
     font-size: 1.5em;
@@ -354,7 +349,12 @@ a:hover {
   color: white;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
+  .project-box {
+    width: 90%;
+    margin-bottom: 20%;
+
+  }
   .projects-row {
     display: block;
   }
