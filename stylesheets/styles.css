@@ -217,17 +217,17 @@ a:hover {
   justify-content: center;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 1000px) {
   .skills h1 {
-    font-size: 3em;
+    font-size: 4em;
   }
 
   .skills h2 {
-    font-size: 1.5em;
+    font-size: 2em;
   }
 
   .skills {
-    width: 85%;
+    width: 90%;
     height: 100%;
   }
 
